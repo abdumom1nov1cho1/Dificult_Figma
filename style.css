@@ -1,0 +1,480 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik";
+}
+.left {
+  display: flex;
+  gap: 50px;
+}
+.right {
+  gap: 30px;
+  display: flex;
+}
+.right img {
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+}
+.right .btn1 {
+  width: 95px;
+  height: 40px;
+  left: 970px;
+  top: 20px;
+  background: #073ba1;
+  border-radius: 8px;
+  color: #fff;
+}
+.phones {
+  margin-top: 5px;
+}
+.phones h6 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #073ba1;
+}
+.phones p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #073ba1;
+}
+.right button {
+  margin-top: 10px;
+}
+.right .btn2 {
+  width: 150px;
+  height: 40px;
+  left: 1075px;
+  top: 20px;
+  background: #ec3d5a;
+  color: #fff;
+  border-radius: 8px;
+}
+.left {
+  display: flex;
+  justify-content: start;
+}
+.left p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #073ba1;
+  margin-left: 10px;
+  padding-top: 10px;
+}
+.card1 img {
+  width: 600px;
+  height: 600px;
+  margin-left: 500px;
+  padding-top: -10px;
+}
+.card1 {
+  width: 100%;
+  height: max-content;
+  flex-wrap: wrap;
+}
+.card1 h1 {
+  width: 780px;
+  height: 120px;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: #073ba1;
+}
+.carta {
+  display: flex;
+  gap: 40px;
+}
+.carta .one {
+  display: flex;
+  gap: 20px;
+}
+.carta .one p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3562bc;
+}
+.card1 {
+  border: none;
+}
+.card1 p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #042668;
+}
+.numbers {
+  position: relative;
+}
+.number {
+  position: absolute;
+  right: 0;
+  bottom: -80px;
+}
+.numbers .nomer {
+  width: 800px;
+  height: 200px;
+}
+.fmm {
+  display: flex;
+}
+.gdd {
+  display: flex;
+  gap: 90px;
+}
+.btns {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+}
+.btns .btn-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  width: 230px;
+  height: 50px;
+  background: #073ba1;
+  border-radius: 8px;
+  color: #fff;
+}
+.btns .btn-4 {
+  padding: 0px;
+  width: 230px;
+  height: 50px;
+  background: #fff;
+  border-radius: 8px;
+  color: #073ba1;
+}
+.card2 {
+  display: flex;
+  width: 300px;
+  height: 140px;
+}
+.card2 .etap h1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  color: #073ba1;
+}
+.card2 .etap h5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #1680e2;
+}
+.card3 {
+  margin-top: 50px;
+  width: 100%;
+  height: max-content;
+}
+.card3 h1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #073ba1;
+}
+.aside {
+  padding-top: 30px;
+}
+.card4 h5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  color: #073ba1;
+}
+.card4 p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #79859e;
+}
+.card {
+  border: none;
+}
+.karta {
+  justify-content: center;
+  align-items: center;
+}
+.card5 h1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #073ba1;
+}
+.card6 {
+  display: flex;
+}
+.asident {
+  padding-top: 30px;
+  display: flex;
+  gap: 50px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.asident img {
+  box-shadow: 0 0 5px 0px rgb(125, 125, 125);
+}
+.card7 h1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #073ba1;
+}
+.level img {
+  margin-right: 190px;
+}
+.pages {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+.pages h5 {
+  text-align: center;
+  margin-right: 190px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  color: #073ba1;
+}
+.asidents {
+  display: flex;
+  border-radius: 10px;
+}
+.btn4 button {
+  border: none;
+  color: #fff;
+  width: 136px;
+  height: 40px;
+  right: 15px;
+  top: 105px;
+  background: #ec3d5a;
+  border-radius: 40px;
+}
+.level1 h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 26px;
+  color: #042668;
+}
+.btn4 h2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 26px;
+  color: #042668;
+}
+aside h1 {
+  margin-top: 50px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 40px;
+  text-align: center;
+  color: #073ba1;
+}
+.card9 {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+.cardd {
+  flex-wrap: wrap;
+  box-shadow: 0 0 5px 0px rgb(125, 125, 125);
+}
+.card9 img {
+  padding-top: 70px;
+}
+.card9 .right {
+  padding-top: 50px;
+  display: block;
+  gap: 30px;
+}
+.cardd {
+  width: 680px;
+  height: 70px;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+.card9 .right h4 {
+  padding-top: 20px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 26px;
+  color: #024de1;
+}
+.img img {
+  margin-top: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 5px 0px rgb(125, 125, 125);
+}
+.img {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.card11 h1 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #073ba1;
+}
+.input {
+  display: flex;
+  gap: 30px;
+}
+.fing {
+  display: flex;
+  justify-content: space-between;
+}
+.hj h1 {
+  text-align: start;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  color: #073ba1;
+}
+.hj p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #073ba1;
+}
+.hj button {
+  width: 230px;
+  height: 50px;
+  left: 60px;
+  top: 372px;
+  background: #ec3d5a;
+  border: #ec3d5a;
+  color: #fff;
+  border-radius: 8px;
+}
+.input h5 {
+  color: #073ba1;
+}
+footer {
+  background-color: #024de1;
+  height: max-content;
+}
+.uls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.uls ul{
+  padding-top: 20px;
+}
+.uls ul li {
+  padding-top: 20px;
+  list-style: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #fff;
+}
+@media all and (max-width: 1216px) {
+  .card {
+    width: 100%;
+  }
+  .card1 h1 {
+    font-size: 34px;
+  }
+  .btns {
+    display: block;
+  }
+  .pages {
+    display: block;
+    text-align: center;
+  }
+  .card8 {
+    display: flex;
+  }
+  .btn4 {
+    display: flex;
+  }
+  .card9 {
+    text-align: center;
+    display: block;
+  }
+}
+@media all and (max-width: 952px) {
+  body{
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    width: 100%;
+  }
+  .card1 h1 {
+    font-size: 20px;
+  }
+  .btns {
+    display: block;
+  }
+  .www {
+    display: block;
+  }
+  .fing {
+    justify-content: center;
+    display: block;
+    gap: 30px;
+  }
+}
+@media all and (max-width: 650px) {
+  .card {
+    width: 100%;
+  }
+  .card1 h1 {
+    font-size: 16px;
+  }
+  .btns {
+    display: block;
+  }
+}
